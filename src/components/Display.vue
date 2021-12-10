@@ -6,7 +6,7 @@
         <img
             src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png"
             height="16"
-            alt=""
+            alt="img"
             loading="lazy"
             style="margin-top: -1px;"
         />
